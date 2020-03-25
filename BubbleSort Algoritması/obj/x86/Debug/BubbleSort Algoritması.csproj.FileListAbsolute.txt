@@ -1,0 +1,18 @@
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\bin\Debug\BubbleSort Algoritması.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\bin\Debug\BubbleSort Algoritması.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort_Algoritması.Form1.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort_Algoritması.Properties.Resources.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.csproj.GenerateResource.Cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.csprojResolveAssemblyReference.cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\A-D\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\A-D\BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.pdb
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.exe
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.pdb
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\bin\Debug\BubbleSort Algoritması.exe
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\bin\Debug\BubbleSort Algoritması.pdb
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort_Algoritması.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort_Algoritması.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\105 BubbleSort Algoritması\BubbleSort Algoritması\obj\x86\Debug\BubbleSort Algoritması.csproj.GenerateResource.Cache
